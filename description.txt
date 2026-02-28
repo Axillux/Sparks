@@ -1,0 +1,23 @@
+[style b size=18px]Need Optifine and version 1.20.4
+[/style]
+
+[style b i=false size=16px color=unset bgcolor=unset]Descri[/style][style b i=false size=16px color=unset bgcolor=unset]ption[/style]
+
+[style b=false i=false size=14px color=unset bgcolor=unset]"Three of Diamonds" is not just a map, but a subtle challenge to reconsider morality. Behind the façade of a private academy, you will meet charming students, each one a masterpiece of deceit and hypocrisy. Detective Elliot arrives to investigate a murder, but soon that ceases to be the story’s focus. The "Three of Diamonds" Academy does not tolerate observers - it turns everyone into a participant in its grand performance. And Elliot, as befits a hero of an ancient Greek tragedy, becomes one of the most beautiful masks at this masquerade. 
+
+This map is not about investigation. It’s about incompetence, unhealthy liberalism, and the wounds that never had time to heal.[/style]
+
+
+[style b i=false size=16px color=unset bgcolor=unset]Map Features[/style]
+[list]
+[*][style b=false i=false size=14px color=unset bgcolor=unset]A story steeped in poetry, lies, and mysticism that will not leave you indifferent.[/style][/*]
+[*][style b=false i=false size=14px color=unset bgcolor=unset]Extraordinary ideas, influenced by The Smiths, Dorian Gray, The Secret History, and much more.[/style][/*]
+[*][style b=false i=false size=14px color=unset bgcolor=unset]Over 20 puzzles. [/style][/*]
+[*][style b=false i=false size=14px color=unset bgcolor=unset]Every character reveals themselves: they grow jealous, angry, inspired, and deceitful. 
+[/style][/*]
+[*][style b=false i=false size=14px color=unset bgcolor=unset]Use your detective skills to find the killer by carefully studying every detail and clue. 
+[/style][/*]
+[*][style b=false i=false size=14px color=unset bgcolor=unset]A full playlist featuring ambient music and various rock bands. 
+[/style][/*]
+[*][style b=false i=false size=14px color=unset bgcolor=unset]Philosophical reflections: aestheticism, absurdism, and ancient Greek philosophy.[/style][/*]
+[/list]
